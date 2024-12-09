@@ -1,0 +1,14 @@
+
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(á¾¿ãüÿÿÿÿ8Í‡–õ‹1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(á¾¿ãüÿÿÿÿ8Î‡–õ‹1
+m
+java:S1130"KRemove the redundant 'java.io.IOException' thrown exception declaration(s).(âú®Ðùÿÿÿÿ8Î‡–õ‹1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Û­ˆ8Ï‡–õ‹1
+V
+java:S4719,"9Replace charset name argument with StandardCharsets.UTF_8(½½ç8Ñ‡–õ‹1
+T	java:S1060"9Replace this use of System.out or System.err by a logger.(¡ŽÇE8Ñ‡–õ‹1
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(ž„°Ú8Ñ‡–õ‹1
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(ºÌ‚ö8Ô‡–õ‹1
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(¨µ¤Ë8åí õ‹1
