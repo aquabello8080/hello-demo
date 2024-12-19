@@ -78,7 +78,7 @@ public class HelloController {
 
         System.out.println("serverProperties = " + serverProperties.getContextPath());
         System.out.println("serverProperties = " + serverProperties.getPort());
-        return new HelloWorldBean("Hello World");
+        return new HelloWorldBean("Hello World !!");
 
     }
 
