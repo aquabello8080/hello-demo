@@ -41,6 +41,11 @@ public class HelloController {
     @Autowired
     private ServerProperties serverProperties;
 
+    @GetMapping("/hello")
+    public String hello() {
+        return "Hello, World!";
+    }
+
     @GetMapping("/ip")
     public String ip(HttpServletRequest request) {
         String clientIp = null;
